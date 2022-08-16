@@ -1,4 +1,4 @@
-# GuestsCalculator
+# EventCalculator
 
 # Owner
 - Mihut Denisa Georgiana
